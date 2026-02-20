@@ -107,7 +107,7 @@ h6 {
 
 :is(h1, h2, h3, h4, h5, h6) {
   text-wrap: balance;
-  margin-block: 2em 0.5em;
+  margin-block: 1.5em 0.5em;
 
   /* Prevent excessive space between direct heading siblings. */
   & + & {
